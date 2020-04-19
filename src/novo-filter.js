@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NovoFilter
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @updateURL    https://raw.githubusercontent.com/NotOfficer/novo-filter-js/master/src/novo-filter.js
 // @downloadURL  https://raw.githubusercontent.com/NotOfficer/novo-filter-js/master/src/novo-filter.js
 // @description  Removes annoying advertisements
@@ -28,7 +28,9 @@ const novolineImages = [
     "imgur.com/LeWTLA",
     "imgur.com/94njs19",
     "imgur.com/AxRhhLy",
-    "imgur.com/94njs19"
+    "imgur.com/94njs19",
+    "imgur.com/G7bMoGq",
+    "imgur.com/BRBO0Z6"
 ];
 
 
