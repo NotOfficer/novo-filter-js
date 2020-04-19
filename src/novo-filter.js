@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         NovoFilter
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://raw.githubusercontent.com/NotOfficer/novo-filter-js/master/src/novo-filter.js
+// @downloadURL  https://raw.githubusercontent.com/NotOfficer/novo-filter-js/master/src/novo-filter.js
 // @description  Removes annoying advertisements
 // @author       Not Officer
 // @match        https://high-minded.net/*
